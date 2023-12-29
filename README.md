@@ -11,7 +11,7 @@ There were two major deliverable components for this project.
 A wireframe was required for the website.
 
 > [!NOTE]
-> Preview the [wireframe](https://i.ibb.co/Jcnb6PQ/Q2-Midterm-Wireframe-Justin-Pelletier.jpg)
+> Preview the [wireframe](https://i.ibb.co/Jcnb6PQ/Q2-Midterm-Wireframe-Justin-Pelletier.jpg).
 
 ### Portfolio
 - Created a website to showcase Albert Einstein, including a description of his life, publications, photographs, news articles, etc.
