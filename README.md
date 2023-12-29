@@ -1,15 +1,28 @@
-# csci-6655-midterm
-This repository is used for the CSCI-6655 midterm for the Fall 2023 semester.
+# CSCI 6655: Web-Database Application Development - Midterm Project
+The objective of this project was to test my HTML and CSS knowledge. In this project, I was asked to create a portfolio website for Albert Einstein.
 
-**DISCLAIMER**: The complete contents of this website were collected through public sources, such as Wikipedia. The only credit taken by the website developer is the assembly, layout, and styling of content on this website. All credit is attributed to original sources, where applicable. Anything not attributed was also still not created by me.
+## Project Scenario
+With the miracle of science and a time machine, scientists traveled back to the past and brought the great Albert Einstein to the present. Mr. Einstein is fascinated by everything we have in today's society because of the beauty of science. After a couple of months, Mr. Einstein wanted to return to academics and start something similar to an online learning platform, but he was having a very hard time understanding the web and how it works. Luckily, Mr. Einstein's manager found a full-stack developer to develop his project.
 
-**REFERENCES**
-- BLOG SECTION: This section was inspired by the following source.
-- https://blog.hubspot.com/hs-fs/hubfs/blog-homepage-designs_21.webp?width=650&height=498&name=blog-homepage-designs_21.webp
+## Deliverables
+There were two major deliverable components for this project.
 
-**PHOTOGRAPHS**
-https://www.bbc.com/news/world-middle-east-41742785
-https://newrepublic.com/article/117028/world-beckons
-https://physicsworld.com/a/einstein-in-oxford/
-https://www.zocalopublicsquare.org/2020/02/20/albert-einsteins-brain/ideas/essay/
-https://www.indiatoday.in/education-today/gk-current-affairs/story/when-charlie-chaplin-met-albert-einstein-html-1213217-2018-04-16
+### Wireframe
+A wireframe was required for the website.
+
+> [!NOTE]
+> Preview the [wireframe](https://i.ibb.co/Jcnb6PQ/Q2-Midterm-Wireframe-Justin-Pelletier.jpg)
+
+### Portfolio
+- Created a website to showcase Albert Einstein, including a description of his life, publications, photographs, news articles, etc.
+- Ensured the layout was responsive and used the correct semantic elements.
+
+> [!NOTE]
+> Preview the [portfolio](https://csci-6655-midterm-albert-einstein.onrender.com/). <br>
+> *The hosting website spins down with inactivity. If this link does not work, give it a few minutes and try again.*
+
+## Skills Exercised
+- HTML 5
+- CSS 3
+- Javascript
+- Git
